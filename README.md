@@ -36,7 +36,7 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sntaez&show_icons=true&locale=en&layout=compact" alt="Sinta Ezra" /></p>
-
+<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sntaez&show_icons=true&locale=en" alt="Sinta Ezra" /></p>
-
+<br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sntaez&" alt="Sinta Ezra" /></p>
