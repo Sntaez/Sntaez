@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinta Ezra Wati Gulo</h1>
-<h3 align="justify">Hello! I'm a computer science student at the University of Bengkulu with a strong interest in web programming. Currently exploring different aspects of computer science to determine my main focus. Excited about the journey ahead!. <br>Looking forward to the exciting journey ahead in the ever-evolving world of technology.</h3>
+<h3 align="justify">Hello! I'm a computer science student at the University of Bengkulu with a strong interest in web programming. Currently exploring different aspects of computer science to determine my main focus. Looking forward to the exciting journey ahead in the ever-evolving world of technology.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sntaez&label=Profile%20views&color=0e75b6&style=flat" alt="Sinta Ezra"/></p>
 
