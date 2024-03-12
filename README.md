@@ -1,5 +1,10 @@
+<img align="center" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="1000">
+<br><br>
 <h1 align="center">Hi 👋, I'm Sinta Ezra Wati Gulo</h1>
 <h3 align="justify">Hello! I'm a computer science student at the University of Bengkulu with a strong interest in web programming. Currently exploring different aspects of computer science to determine my main focus. Looking forward to the exciting journey ahead in the ever-evolving world of technology.</h3>
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/f5d2d866-d25c-4873-8d82-425d2c62fc2e" width="500">
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sntaez&label=Profile%20views&color=0e75b6&style=flat" alt="Sinta Ezra"/></p>
 
@@ -23,6 +28,7 @@
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/></a>
 <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Tools:</h3>
@@ -31,12 +37,11 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sntaez&show_icons=true&locale=en&layout=compact" alt="Sinta Ezra" /></p>
-<br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Sntaez&show_icons=true&locale=en" alt="Sinta Ezra" /></p>
-<br>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Sntaez&" alt="Sinta Ezra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sntaez&show_icons=true&locale=en" alt="Sinta Ezra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sntaez&" alt="Sinta Ezra" /></p>
